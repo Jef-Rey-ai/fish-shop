@@ -1,0 +1,27 @@
+#footer{
+  width: 100%;
+  background-color: #efefef;
+  padding:100px 20px 0;
+}
+.footerRow{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footerLeft,.footerRight{
+  flex-basis: 45%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.footerRight{
+  text-align: right;
+}
+.footerRow h1{
+  margin: 10px 0;
+}
+.footerRow p{
+  line-height: 35px;
+  padding: 0 20px;
+}

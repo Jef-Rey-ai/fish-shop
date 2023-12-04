@@ -1,0 +1,16 @@
+@import url(css/banner.css);
+@import url(css/footer.css);
+@import url(css/episode1.css);
+@import url(css/episode2.css);
+@import url(css/episode3.css);
+@import url(css/navSidebar.css);
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
